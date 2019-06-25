@@ -1,3 +1,3 @@
 # orc_vio_starmap_pytorch_models
 
-repo to store starmap models for orcvio
+repo to store yolo and starmap models for orcvio
